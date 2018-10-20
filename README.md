@@ -1,8 +1,8 @@
 # praktikum3
 
-*Latihan1 #Menentukan Bilangan Terbesar dari Banyak Bilangan. endl
-Alur Algoritma.endl
-	1.Mendeklarasikan int i,max,a, dan x. endl
+*Latihan1 #Menentukan Bilangan Terbesar dari Banyak Bilangan.
+Alur Algoritma.
+	1.Mendeklarasikan int i,max,a, dan x.
 	2.mendeklarasikan variabel a dan x sebagai nilai inputan.
 	3.Mendeklarasikan variabel i sebagai perulangan.
 	4.Mendeklarasikan variabel max sebagai pengingat nilai.
