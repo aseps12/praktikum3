@@ -98,3 +98,60 @@ int main()
 ![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil2.png)
 ![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil3.png)
 ![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil4.png)
+
+*Laihan3 #Menentukan Jenis segitiga
+```
+Alur Algoritmanya
+	1.Mendeklarasikan variabel a,b,c sebagai inputan.
+	2.Masukan nilai a,b,c dan membandingkanya
+	3.Jika a sama dengan b dan a sama dengan c
+	4.Maka akan ditampilkan Segi Tiga sama sisi
+		if (a==b && a==c)
+   		{
+    		   cout<< "Segitiga Sama Sisi" << endl;
+   		}
+	5.Jika a tidak sama dengan b dan a tidak sama dengan c
+	6.Maka akan ditampilkan segitiga Sembarang.
+		if  (a!=b || a!=c)
+      		{
+           	    cout<<"Segitiga Sama Kaki"<<endl;
+       		}
+	7.Maka lainya akan menampilkan segitiga sama kaki.
+```
+
+*Berikut Kode Lengkapnya
+```c++
+int main()
+{
+   int a,b,c;
+
+   cout<< "Masukan sisi A :";
+   cin>> a;
+
+   cout<< "Masukan sisi B :";
+   cin>> b;
+
+   cout<< "Masukan sisi C :";
+   cin>> c;
+
+   if (a==b && a==c)
+   {
+       cout<< "Segitiga Sama Sisi" << endl;
+   }
+   else if  (a==b || a==c)
+   {
+       if  (a!=b || a!=c)
+       {
+           cout<<"Segitiga Sama Kaki"<<endl;
+       }
+   }
+   else
+    cout<< "Segitiga Sembarang" ;
+    return 0;
+}
+```
+
+*Berikuthasilnya
+![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil5.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil6.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil7.png)
