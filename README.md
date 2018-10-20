@@ -94,6 +94,7 @@ int main()
 ```c++
 
 *Berikut Hasilnya
-![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil2.png)
-![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil3.png)
-![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil4.png)
+
+![img] (https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil2.png)
+![img] (https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil3.png)
+![img] (https://raw.githubusercontent.com/aseps12/praktikum3/master/hasil4.png)
