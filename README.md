@@ -1,6 +1,8 @@
 # praktikum3
 
 *Latihan1 #Menentukan Bilangan Terbesar dari Banyak Bilangan.
+
+```
 Alur Algoritma.
 	1.Mendeklarasikan int i,max,a, dan x.
 	2.mendeklarasikan variabel a dan x sebagai nilai inputan.
@@ -13,6 +15,7 @@ Alur Algoritma.
 	8.Membandingkan nilai x dengan max
 		if ( x> max) // jika x lebih besar dari max
 	    	max= x   // maka nilai max adalah x
+```
 
 *Berikut kode lengkapnya
 
