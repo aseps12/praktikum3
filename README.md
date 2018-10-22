@@ -58,6 +58,13 @@ Alur Algoritmanya
 		Jika a lebih kecil dari b dan jika b lebih kecil dari c maka yang akan ditampilkan
 		a b c
 ```
+
+*Berikut Flowchartnya
+
+```
+![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/flowchart1.jpg)
+```
+
 *Berikut Kode Lengkapnya
 
 ```c++
