@@ -61,9 +61,7 @@ Alur Algoritmanya
 
 *Berikut Flowchartnya
 
-```
 ![img](https://raw.githubusercontent.com/aseps12/praktikum3/master/flowchart1.jpg)
-```
 
 *Berikut Kode Lengkapnya
 
